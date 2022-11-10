@@ -1,0 +1,18 @@
+{
+    "flights": [
+        {
+            "flightNumber": "QF400",
+            "departurePort": "MEL",
+            "arrivalPort": "SYD",
+            "departureTime": "2020-06-10T17:00:23",
+            "arrivalTime": "2020-06-10T18:00:23"
+        },
+        {
+            "flightNumber": "QF401",
+            "departurePort": "MEL",
+            "arrivalPort": "SYD",
+            "departureTime": "2020-06-10T18:00:00",
+            "arrivalTime": "2020-06-10T19:00:00"
+        }
+    ]
+}
